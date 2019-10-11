@@ -9,7 +9,7 @@ A class project turned into something a lot larger. This repository holds a 2 mo
 
 ### Dataset - Data Retrieval and Standard Descriptive Analysis
 
-The dataset being used was found on ![Kaggle](https://www.kaggle.com/cjgdev/formula-1-race-data-19502017).
+The dataset being used was found on ![https://www.kaggle.com/cjgdev/formula-1-race-data-19502017](Kaggle).
 It contains race entries from 1950 to 2017. 
 
 The dataset includes:
